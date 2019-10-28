@@ -94,7 +94,7 @@
 		 				{"name":"Centro musical Batuta", "value":7},
 		 				{"name":"Escuela de música (Privada)", "value":2},
 			 			{"name":"Escuela municipal de música", "value":26},
-		 				{"name":"Escuela municipal de música - Corregimiento", "value":2}
+		 				{"name":"Escuela municipal de música - Corregimiento", "value":2},
 		 				{"name":"Institución educativa", "value":11}
 		 			]
 				},
@@ -137,7 +137,7 @@
 		 			"name":"Quindío", 
 		 			"children": [
 		 				{"name":"Escuela de música (Privada)", "value":6},
-			 			{"name":"Escuela municipal de música", "value":12},
+			 			{"name":"Escuela municipal de música", "value":12}
 		 			]
 				},
 				{
@@ -145,7 +145,7 @@
 		 			"children": [
 		 				{"name":"Centro musical Batuta", "value":1},
 		 				{"name":"Escuela de música (Privada)", "value":7},
-			 			{"name":"Escuela municipal de música", "value":12},
+			 			{"name":"Escuela municipal de música", "value":12}
 		 				
 		 			]
 				},
@@ -178,7 +178,7 @@
 		 			"name":"San Andrés y Providencia", 
 		 			"children": [
 		 				{"name":"Escuela de música (Privada)", "value":1},
-			 			{"name":"Escuela municipal de música", "value":2},
+			 			{"name":"Escuela municipal de música", "value":2}
 		 			]
 				},
 		 		{
@@ -206,8 +206,7 @@
 		 			"children": [
 		 				{"name":"Centro musical Batuta", "value":4},
 		 				{"name":"Escuela de música (Privada)", "value":4},
-			 			{"name":"Escuela municipal de música", "value":25},
-		 				{"name":"Institución educativa", "value":}
+			 			{"name":"Escuela municipal de música", "value":25}
 		 			]
 				},
 				{
@@ -215,7 +214,7 @@
 		 			"children": [
 		 				{"name":"Centro musical Batuta", "value":6},
 		 				{"name":"Escuela de música (Privada)", "value":8},
-			 			{"name":"Escuela municipal de música", "value":26},
+			 			{"name":"Escuela municipal de música", "value":26}
 		 		
 		 			]
 				},
@@ -224,7 +223,7 @@
 		 			"children": [
 		 				{"name":"Centro musical Batuta", "value":7},
 		 				{"name":"Escuela de música (Privada)", "value":6},
-			 			{"name":"Escuela municipal de música", "value":14},
+			 			{"name":"Escuela municipal de música", "value":14}
 		 			]
 				},
 				{
@@ -256,7 +255,7 @@
 		 			"children": [
 		 				{"name":"Centro musical Batuta", "value":4},
 		 				{"name":"Escuela de música (Privada)", "value":2},
-			 			{"name":"Escuela municipal de música", "value":6},
+			 			{"name":"Escuela municipal de música", "value":6}
 		 			]
 				},
 		 		{
@@ -265,7 +264,7 @@
 		 				{"name":"Centro musical Batuta", "value":2},
 		 				{"name":"Escuela de música (Privada)", "value":4},
 			 			{"name":"Escuela municipal de música", "value":18},
-		 				{"name":"Escuela virtual", "value":1},
+		 				{"name":"Escuela virtual", "value":1}
 		 			]
 				},
 				{
@@ -273,14 +272,14 @@
 		 			"children": [
 		 				{"name":"Centro musical Batuta", "value":4},
 		 				{"name":"Escuela de música (Privada)", "value":2},
-			 			{"name":"Escuela municipal de música", "value":28},
+			 			{"name":"Escuela municipal de música", "value":28}
 		 			]
 				},
 				{
 		 			"name":"Vichada", 
 		 			"children": [
 		 				{"name":"Centro musical Batuta", "value":1},
-		 				{"name":"Escuela municipal de música", "value":4},
+		 				{"name":"Escuela municipal de música", "value":4}
 		 			]
 				}
  			]
@@ -296,7 +295,7 @@
 		 				{"name":"Escuela de música (Privada)", "value":10},
 			 			{"name":"Escuela de música indígena", "value":1},
 		 				{"name":"Escuela municipal de música", "value":39},
-		 				{"name":"Escuela municipal de música - Corregimiento", "value":2},
+		 				{"name":"Escuela municipal de música - Corregimiento", "value":2}
 		 			]
 				},
 		 		{
