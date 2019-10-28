@@ -19,40 +19,28 @@
 		 				{"name":"Escuela comunitaria", "value":1},
 		 				{"name":"Escuela municipal de música", "value":15}	
 		 			]
-				},
-				{
-		 			"name":"Guainía", 
+				}
+			]
+		},
+		{
+		 	"name": "Andina",
+		 	"children": [
+		 		{
+		 			"name":"Antioquia", 
 		 			"children": [
-		 				{"name":"Centro musical Batuta", "value":1},
-		 				{"name":"Escuela departamental de música", "value":1}	
-		 				{"name":"Escuela municipal de música", "value":1}	
+		 				{"name":"Ejemplo1", "value":70},
+		 				{"name":"Ejemplo2", "value":50},
+		 				{"name":"Ejemplo3", "value":55},
+		 				{"name":"Ejemplo4", "value":45}	
 		 			]
 				},
 				{
-		 			"name":"Guaviare", 
+		 			"name":"Bogotá D.C.", 
 		 			"children": [
-		 				{"name":"Centro musical Batuta", "value":2},
-		 				{"name":"Escuela municipal de música", "value":4}	
-		 				{"name":"Formación profesional", "value":1}	
-		 				{"name":"Formación técnica/tecnológica", "value":1}	
-
-		 			]
-				},
-				{
-		 			"name":"Putumayo", 
-		 			"children": [
-		 				{"name":"Centro musical Batuta", "value":13},
-		 				{"name":"Escuela de música indígena", "value":2}	
-		 				{"name":"Escuela municipal de música", "value":13}	
-		 				{"name":"Escuela municipal de música - Corregimiento", "value":3}	
-		 				{"name":"Institución educativa", "value":3}	
-		 			]
-				},
-				{
-		 			"name":"Vaupés", 
-		 			"children": [
-		 				{"name":"Centro musical Batuta", "value":1},
-		 				{"name":"Escuela municipal de música", "value":2}	
+		 				{"name":"Ejemplo6", "value":100},
+		 				{"name":"Ejemplo1", "value":45},
+		 				{"name":"Ejemplo2", "value":60},
+		 				{"name":"Ejemplo3", "value":35}	
 		 			]
 				}
 			]
