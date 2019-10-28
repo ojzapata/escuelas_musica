@@ -56,29 +56,6 @@
 		 			]
 				}
 			]
-		},
-		{
-		 	"name": "Andina",
-		 	"children": [
-		 		{
-		 			"name":"Antioquia", 
-		 			"children": [
-		 				{"name":"Ejemplo1", "value":70},
-		 				{"name":"Ejemplo2", "value":50},
-		 				{"name":"Ejemplo3", "value":55},
-		 				{"name":"Ejemplo4", "value":45}	
-		 			]
-				},
-				{
-		 			"name":"Bogotá D.C.", 
-		 			"children": [
-		 				{"name":"Ejemplo6", "value":100},
-		 				{"name":"Ejemplo1", "value":45},
-		 				{"name":"Ejemplo2", "value":60},
-		 				{"name":"Ejemplo3", "value":35}	
-		 			]
-				}
-			]
 		}
 	]
 }
