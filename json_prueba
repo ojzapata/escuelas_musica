@@ -7,109 +7,52 @@
 		 		{
 		 			"name":"Amazonas", 
 		 			"children": [
-		 				{"name":"Centro musical Batuta", "value":1},
-		 				{"name":"Conservatorio", "value":},
-		 				{"name":"Escuela comunitaria", "value":},
+		 				{"name":"Centro musical Batuta", "value":1},			
 		 				{"name":"Escuela de música (Privada)", "value":1}	
-		 				{"name":"Escuela de música indígena", "value":}	
-		 				{"name":"Escuela departamental de música", "value":}	
-		 				{"name":"Escuela municipal de música", "value":1}	
-		 				{"name":Escuela municipal de música - Corregimiento", "value":}	
-		 				{"name":"Escuela virtual", "value":}	
-		 				{"name":"Formación musical - intituciones de reclusión", "value":}	
-		 				{"name":"Formación profesional", "value":}	
-		 				{"name":"Formación técnica/tecnológica", "value":}	
-		 				{"name":"Institución educativa", "value":}	
+		 				{"name":"Escuela municipal de música", "value":2}	
 		 			]
 				},
 		 		{
 		 			"name":"Caquetá", 
 		 			"children": [
-		 				{"name":"Centro musical Batuta", "value":},
-		 				{"name":"Conservatorio", "value":},
-		 				{"name":"Escuela comunitaria", "value":},
-		 				{"name":"Escuela de música (Privada)", "value":}	
-		 				{"name":"Escuela de música indígena", "value":}	
-		 				{"name":"Escuela departamental de música", "value":}	
-		 				{"name":"Escuela municipal de música", "value":}	
-		 				{"name":Escuela municipal de música - Corregimiento", "value":}	
-		 				{"name":"Escuela virtual", "value":}	
-		 				{"name":"Formación musical - intituciones de reclusión", "value":}	
-		 				{"name":"Formación profesional", "value":}	
-		 				{"name":"Formación técnica/tecnológica", "value":}	
-		 				{"name":"Institución educativa", "value":}	
+		 				{"name":"Centro musical Batuta", "value":6},
+		 				{"name":"Escuela comunitaria", "value":1},
+		 				{"name":"Escuela municipal de música", "value":15}	
 		 			]
 				},
 				{
 		 			"name":"Guainía", 
 		 			"children": [
-		 				{"name":"Centro musical Batuta", "value":},
-		 				{"name":"Conservatorio", "value":},
-		 				{"name":"Escuela comunitaria", "value":},
-		 				{"name":"Escuela de música (Privada)", "value":}	
-		 				{"name":"Escuela de música indígena", "value":}	
-		 				{"name":"Escuela departamental de música", "value":}	
-		 				{"name":"Escuela municipal de música", "value":}	
-		 				{"name":Escuela municipal de música - Corregimiento", "value":}	
-		 				{"name":"Escuela virtual", "value":}	
-		 				{"name":"Formación musical - intituciones de reclusión", "value":}	
-		 				{"name":"Formación profesional", "value":}	
-		 				{"name":"Formación técnica/tecnológica", "value":}	
-		 				{"name":"Institución educativa", "value":}	
+		 				{"name":"Centro musical Batuta", "value":1},
+		 				{"name":"Escuela departamental de música", "value":1}	
+		 				{"name":"Escuela municipal de música", "value":1}	
 		 			]
 				},
 				{
 		 			"name":"Guaviare", 
 		 			"children": [
-		 				{"name":"Centro musical Batuta", "value":},
-		 				{"name":"Conservatorio", "value":},
-		 				{"name":"Escuela comunitaria", "value":},
-		 				{"name":"Escuela de música (Privada)", "value":}	
-		 				{"name":"Escuela de música indígena", "value":}	
-		 				{"name":"Escuela departamental de música", "value":}	
-		 				{"name":"Escuela municipal de música", "value":}	
-		 				{"name":Escuela municipal de música - Corregimiento", "value":}	
-		 				{"name":"Escuela virtual", "value":}	
-		 				{"name":"Formación musical - intituciones de reclusión", "value":}	
-		 				{"name":"Formación profesional", "value":}	
-		 				{"name":"Formación técnica/tecnológica", "value":}	
-		 				{"name":"Institución educativa", "value":}	
+		 				{"name":"Centro musical Batuta", "value":2},
+		 				{"name":"Escuela municipal de música", "value":4}	
+		 				{"name":"Formación profesional", "value":1}	
+		 				{"name":"Formación técnica/tecnológica", "value":1}	
+
 		 			]
 				},
 				{
 		 			"name":"Putumayo", 
 		 			"children": [
-		 				{"name":"Centro musical Batuta", "value":},
-		 				{"name":"Conservatorio", "value":},
-		 				{"name":"Escuela comunitaria", "value":},
-		 				{"name":"Escuela de música (Privada)", "value":}	
-		 				{"name":"Escuela de música indígena", "value":}	
-		 				{"name":"Escuela departamental de música", "value":}	
-		 				{"name":"Escuela municipal de música", "value":}	
-		 				{"name":Escuela municipal de música - Corregimiento", "value":}	
-		 				{"name":"Escuela virtual", "value":}	
-		 				{"name":"Formación musical - intituciones de reclusión", "value":}	
-		 				{"name":"Formación profesional", "value":}	
-		 				{"name":"Formación técnica/tecnológica", "value":}	
-		 				{"name":"Institución educativa", "value":}	
+		 				{"name":"Centro musical Batuta", "value":13},
+		 				{"name":"Escuela de música indígena", "value":2}	
+		 				{"name":"Escuela municipal de música", "value":13}	
+		 				{"name":"Escuela municipal de música - Corregimiento", "value":3}	
+		 				{"name":"Institución educativa", "value":3}	
 		 			]
 				},
 				{
 		 			"name":"Vaupés", 
 		 			"children": [
-		 				{"name":"Centro musical Batuta", "value":},
-		 				{"name":"Conservatorio", "value":},
-		 				{"name":"Escuela comunitaria", "value":},
-		 				{"name":"Escuela de música (Privada)", "value":}	
-		 				{"name":"Escuela de música indígena", "value":}	
-		 				{"name":"Escuela departamental de música", "value":}	
-		 				{"name":"Escuela municipal de música", "value":}	
-		 				{"name":Escuela municipal de música - Corregimiento", "value":}	
-		 				{"name":"Escuela virtual", "value":}	
-		 				{"name":"Formación musical - intituciones de reclusión", "value":}	
-		 				{"name":"Formación profesional", "value":}	
-		 				{"name":"Formación técnica/tecnológica", "value":}	
-		 				{"name":"Institución educativa", "value":}	
+		 				{"name":"Centro musical Batuta", "value":1},
+		 				{"name":"Escuela municipal de música", "value":2}	
 		 			]
 				}
 			]
