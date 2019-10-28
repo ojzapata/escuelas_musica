@@ -281,6 +281,53 @@
 		 			]
 				}
  			]
+		},
+		{
+ 			"name":"Pacífica", 
+ 			"children": [
+				{
+		 			"name":"Cauca", 
+		 			"children": [
+		 				{"name":"Centro musical Batuta", "value":2},
+		 				{"name":"Escuela comunitaria", "value":2},
+		 				{"name":"Escuela de música (Privada)", "value":10},
+			 			{"name":"Escuela de música indígena", "value":1},
+		 				{"name":"Escuela municipal de música", "value":39},
+		 				{"name":"Escuela municipal de música - Corregimiento", "value":2}
+		 			]
+				},
+		 		{
+		 			"name":"Chocó", 
+		 			"children": [
+		 				{"name":"Centro musical Batuta", "value":10},
+		 				{"name":"Escuela de música (Privada)", "value":2},
+			 			{"name":"Escuela municipal de música", "value":29},
+		 				{"name":"Institución educativa", "value":1}
+		 			]
+				},
+				{
+		 			"name":"Nariño", 
+		 			"children": [
+		 				{"name":"Centro musical Batuta", "value":14},
+		 				{"name":"Escuela de música (Privada)", "value":6},
+			 			{"name":"Escuela municipal de música", "value":66},
+		 				{"name":"Escuela municipal de música - Corregimiento", "value":1},
+		 				{"name":"Institución educativa", "value":2}
+		 			]
+				},
+				{
+		 			"name":"Cauca", 
+		 			"children": [
+		 				{"name":"Centro musical Batuta", "value":10},
+		 				{"name":"Conservatorio", "value":1},
+		 				{"name":"Escuela comunitaria", "value":1},
+		 				{"name":"Escuela de música (Privada)", "value":23},
+			 			{"name":"Escuela municipal de música", "value":37},
+		 				{"name":"Formación técnica/tecnológica", "value":1},
+		 				{"name":"Institución educativa", "value":4}
+		 			]
+				}
+ 			]
 		}
 	]
 }
