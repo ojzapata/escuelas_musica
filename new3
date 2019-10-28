@@ -244,6 +244,43 @@
 		 			]
 				}
  			]
+		},
+		{
+ 			"name":"Orinoquía", 
+ 			"children": [
+				{
+		 			"name":"Arauca", 
+		 			"children": [
+		 				{"name":"Centro musical Batuta", "value":4},
+		 				{"name":"Escuela de música (Privada)", "value":2},
+			 			{"name":"Escuela municipal de música", "value":6}
+		 			]
+				},
+		 		{
+		 			"name":"Casanare", 
+		 			"children": [
+		 				{"name":"Centro musical Batuta", "value":2},
+		 				{"name":"Escuela de música (Privada)", "value":4},
+			 			{"name":"Escuela municipal de música", "value":18},
+		 				{"name":"Escuela virtual", "value":1}
+		 			]
+				},
+				{
+		 			"name":"Meta", 
+		 			"children": [
+		 				{"name":"Centro musical Batuta", "value":4},
+		 				{"name":"Escuela de música (Privada)", "value":2},
+			 			{"name":"Escuela municipal de música", "value":28}
+		 			]
+				},
+				{
+		 			"name":"Vichada", 
+		 			"children": [
+		 				{"name":"Centro musical Batuta", "value":1},
+		 				{"name":"Escuela municipal de música", "value":4}
+		 			]
+				}
+ 			]
 		}
 	]
 }
